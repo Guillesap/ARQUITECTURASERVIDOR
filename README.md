@@ -1,6 +1,6 @@
 # Arquitectura en capas
 
-<h2 align="center">⭐️VHS "Productos"⭐️</h2>
+<h2 align="center">⭐️Desafio Arquitectura, basado en proyecto "VHS" ⭐️</h2>
 
 ## 🌐 [Ver Desafio en Heroku](https://guillesapag.herokuapp.com/login)
 
